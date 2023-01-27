@@ -2,9 +2,8 @@
 
 This is my MODULE 1, first week. The goal for this was to learn how to obtain information on specific Ticker Symbols so I may be able to create visuals, or potentially an automatic advisor for future investments. 
 
-
-Bellow is a link of my walkthrough. 
-[Video](https://youtu.be/MJmxxZ2r2Kw)
+For a walkthrough, 
+[click here](https://youtu.be/MJmxxZ2r2Kw)
 
 # Development Environment
 
